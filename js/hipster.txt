@@ -1,0 +1,9 @@
+You need to install the shell support in textmate preferences. Follow these steps.
+
+Open textmate
+Open Preferences via your top menu TextMate > Preferences or pressing Command + ,
+Click on Terminal tab
+Click the install button
+note: This will install the command line support to your bash file by default. 
+If you are not using bash, you'll need to add the following line to your shell or select the correct path from the dropdown menu. 
+Once you reload your terminal, this will load the path to the EDITOR variable.
