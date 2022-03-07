@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+Changed the data in the README file
+
 This repository is for showing how Git and GitHub work
 
 ## Purpose
